@@ -37,7 +37,7 @@ if(chair>0 && table >0 && bed> 0){
  console.log(result1, result2, result3, result4, result5);
 
 
-//3rd no: Calculating brick of some floor.
+//3rd no: Calculating brick of a specific floor.
 
 function brickCalculator(floor){
 
