@@ -43,17 +43,17 @@ function brickCalculator(floor){
 
   for(let i =1; i<=floor; i++){
     if(i>0 && i<=10){
-      var totalBrick = i*15*1000;
+      var totalBrick = (i*15*1000);
       
  }
    else if(i>=11 && i<=20){
-    var totalBrick = (i*12*1000) +(10*15*1000);
+    var totalBrick = (i*12*1000);
    
  
 
     }
     else if(i>=21){
-      var totalBrick = (i*10*1000)+(20*12*1000) ;
+      var totalBrick = (i*10*1000);
       
  
     }
