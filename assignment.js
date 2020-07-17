@@ -63,7 +63,7 @@ console.log("you will need:",  result, "brick");
 
 
 
-// 4th no: Find largest name among my frinds.
+// 4th no: Find smallest name among my frinds.
 
 function tinyFriend(name) {
   var shortLength = Infinity;
